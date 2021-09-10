@@ -1,0 +1,19 @@
+☐ GET DATA
+☐ generate dummy data
+☐ create function to CONVERT GRADES TO VALUES
+☐ create function to convert career to numerical value
+☐ SCALING NN:
+    ☐ vertically or horizontally to improve accuracy
+☐ 
+
+
+☐ determine the average performance in core EEE courses related to computer engineering:
+    ☐ 303, 301, 305 311. (scores/4 ==> output col)
+    ☐ phy 102, MTS 104
+    ☐ eee 201, eee 202
+
+☐ convert grades to 1-5 then the classes with one-hot coding (binary)
+☐ convert average to 1-5
+
+☐ try use jus the first two or the last two
+☐ implement the regression 
